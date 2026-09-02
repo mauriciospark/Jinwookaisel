@@ -1,5 +1,5 @@
 283231218+Jinwookaisel@users.noreply.github.com
-
+fdgnd
 <img src="https://mauriciospark.github.io/coreIcons/fotos/kalilinux.png" height="45" alt="kalilinux logo"  />|
 <img src="https://mauriciospark.github.io/coreIcons/fotos/terminalw.png" height="45" alt="terminalw logo">|
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
