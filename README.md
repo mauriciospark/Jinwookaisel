@@ -1,6 +1,6 @@
 <img src="https://mauriciospark.github.io/coreIcons/fotos/terminalw.png" height="45" alt="terminalw logo">|
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
-
+fxhjkl
 283231218+Jinwookaisel@users.noreply.github.com
 
 # 🚀 11 Dicas Universais para Estruturar um Repositório Perfeito no GitHub
